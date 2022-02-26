@@ -1,7 +1,7 @@
 {
   "name": "@fdebijl/pog",
   "version": "1.0.0",
-  "description": "Placeholder description",
+  "description": "Personal util package 🦺",
   "main": "dist/index.js",
   "files": [
     "dist/**/*"
@@ -9,7 +9,6 @@
   "scripts": {
     "compile": "tsc",
     "lint": "eslint \"./src/**/*.ts\" --max-warnings 10",
-    "postsetup": "shx rm tsbp.setup.ts && npm uninstall @types/inquirer @types/npm chalk inquirer replace-in-file shx && npm install",
     "prepare": "npm run compile",
     "start": "node index.js",
     "test": "jasmine-ts --config=jasmine.config.json",

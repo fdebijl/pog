@@ -1,3 +1,8 @@
-# @fdebijl/pog
+# Pog
 
-*Enter a short description for the project here.*
+Collection of util methods 🦺
+
+### Installation:
+```
+npm install -S @fdebijl/pog
+```
