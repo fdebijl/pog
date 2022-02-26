@@ -1,9 +1,13 @@
 {
   "extends": [
-    "@fdebijl"
+    "@fdebijl",
+    "plugin:jasmine/recommended"
   ],
-  "plugins": [],
+  "plugins": [
+    "jasmine"
+  ],
   "env": {
-    "node": true
+    "node": true,
+    "jasmine": true
   }
 }

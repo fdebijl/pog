@@ -2,10 +2,13 @@
   "extends": "@fdebijl/tsconfig",
   "compilerOptions": {
     "outDir": "./dist",
-    "rootDir": "./src"
-	},
+    "rootDir": "./src",
+    "types": [
+      "jasmine"
+    ]
+  },
   "exclude": [
-    "tsbp.setup.ts",
-    "boilerplate/**/*.ts"
+    "test/**/*.ts",
+    "dist"
   ]
 }
