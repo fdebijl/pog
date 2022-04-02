@@ -14,9 +14,6 @@
     "test": "jasmine-ts --config=jasmine.config.json",
     "test:coverage": "nyc -e .ts -x \"*.spec.ts\" -x \"dist/**\" -x \"test/**\" --reporter=json jasmine-ts --config=jasmine.config.json --random=false && mv coverage/coverage-final.json coverage/coverage.json && codecov"
   },
-  "release": {
-    "analyzeCommits": "semantic-release-conventional-commits"
-  },
   "devDependencies": {
     "@fdebijl/eslint-config": "1.2.0",
     "@fdebijl/tsconfig": "1.1.0",
