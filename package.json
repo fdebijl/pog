@@ -1,6 +1,6 @@
 {
   "name": "@fdebijl/pog",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "description": "Personal util package 🦺",
   "main": "dist/index.js",
   "files": [
