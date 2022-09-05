@@ -1,3 +1,5 @@
+# [1.28.0](https://github.com/fdebijl/pog/compare/v1.27.0...v1.28.0) (2022-09-05)
+
 # [1.27.0](https://github.com/fdebijl/pog/compare/v1.26.0...v1.27.0) (2022-08-29)
 
 # [1.26.0](https://github.com/fdebijl/pog/compare/v1.25.0...v1.26.0) (2022-08-22)
