@@ -1,3 +1,5 @@
+# [1.43.0](https://github.com/fdebijl/pog/compare/v1.42.0...v1.43.0) (2023-07-01)
+
 # [1.42.0](https://github.com/fdebijl/pog/compare/v1.41.0...v1.42.0) (2023-06-01)
 
 # [1.41.0](https://github.com/fdebijl/pog/compare/v1.40.0...v1.41.0) (2023-05-01)
