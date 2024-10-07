@@ -1,3 +1,10 @@
+# [1.54.0](https://github.com/fdebijl/pog/compare/v1.53.0...v1.54.0) (2024-10-07)
+
+
+### Features
+
+* add mapBy util ([#99](https://github.com/fdebijl/pog/issues/99)) ([bf1fbfb](https://github.com/fdebijl/pog/commit/bf1fbfb2c52bf97927515d0f06d5d8fb648aff1e))
+
 # [1.53.0](https://github.com/fdebijl/pog/compare/v1.52.0...v1.53.0) (2024-10-07)
 
 
