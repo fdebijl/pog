@@ -1,3 +1,15 @@
+# [1.53.0](https://github.com/fdebijl/pog/compare/v1.52.0...v1.53.0) (2024-10-07)
+
+
+### Bug Fixes
+
+* **ci:** fix npm run command ([35cc32b](https://github.com/fdebijl/pog/commit/35cc32be3ce3ae5baf268a61371374ad9d180998))
+
+
+### Features
+
+* add deduplicate util ([c039d6d](https://github.com/fdebijl/pog/commit/c039d6d7e3913357d35ba0b65d4bb2f50d6cc7cd))
+
 # [1.52.0](https://github.com/fdebijl/pog/compare/v1.51.0...v1.52.0) (2024-04-01)
 
 # [1.51.0](https://github.com/fdebijl/pog/compare/v1.50.0...v1.51.0) (2024-03-01)
