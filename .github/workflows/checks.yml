@@ -4,8 +4,6 @@ on: [push]
 
 env:
   NODE_VERSION: 20
-  CI: true
-  NODE_ENV: ci
 
 jobs:
   test:
