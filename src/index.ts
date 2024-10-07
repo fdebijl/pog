@@ -5,3 +5,5 @@ export * from './sequentially';
 export * from './sum';
 export * from './transpose';
 export * from './until';
+export * from './deduplicate';
+export * from './mapBy';
